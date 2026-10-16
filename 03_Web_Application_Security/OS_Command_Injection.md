@@ -1,11 +1,11 @@
 # OS Command Injection
 
 ## Executive Summary
-Overview of command injection attacks, occurring when an application passes unsanitized user input directly to a system shell execution context[cite: 1].
+Overview of command injection attacks, occurring when an application passes unsanitized user input directly to a system shell execution context.
 
 ## Key Concepts
-- **Vulnerability Mechanics:** Attacker appends shell operators (`&`, `;`, `|`, `&&`, `||`) to execute arbitrary operating system commands[cite: 1].
-- **Lab Takeaways (DVWA):** Bypassing basic blacklists/filters and extracting sensitive files (e.g., `/etc/passwd` or system network configuration)[cite: 1].
+- **Vulnerability Mechanics:** Attacker appends shell operators (`&`, `;`, `|`, `&&`, `||`) to execute arbitrary operating system commands.
+- **Lab Takeaways (DVWA):** Bypassing basic blacklists/filters and extracting sensitive files (e.g., `/etc/passwd` or system network configuration).
 - **Impact:** System compromise, lateral movement, or host takeover.
 - **Remediation:** Avoid system execution calls (`system()`, `exec()`), use parameterized API functions, and implement strict input allowlists.
 
