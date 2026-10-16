@@ -20,13 +20,13 @@ Welcome to my **Personal Knowledge System (PKS)** for CIT312/ITL312: Information
 * [OS Command Injection](03_Web_Application_Security/OS_Command_Injection.md) — Shell command chaining (`&`, `;`, `|`), input filters, and safe execution practices.
 
 ### 04. Security Operations
-* [Cybersecurity Incident Analysis](04_Incident_Response/Incident_Analysis_and_Handling.md) — Incident handling lifecycle (NIST SP 800-61), root cause analysis, and post-mortem reporting[cite: 2].
+* [Cybersecurity Incident Analysis](04_Incident_Response/Incident_Analysis_and_Handling.md) — Incident handling lifecycle (NIST SP 800-61), root cause analysis, and post-mortem reporting
 
 ---
 
 ## 🛠️ Key Hands-On Environments
 - **DVWA (Damn Vulnerable Web Application):** Web vulnerability testing ground.
-- **Mailvelope / OpenPGP:** Browser-based message encryption and signing[cite: 2].
+- **Mailvelope / OpenPGP:** Browser-based message encryption and signing.
 - **Virtualization:** VirtualBox / VMware host-isolated environments.
 
 ---
