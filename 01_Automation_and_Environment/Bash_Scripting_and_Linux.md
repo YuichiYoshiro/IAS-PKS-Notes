@@ -1,7 +1,7 @@
 # Bash Scripting & Linux Fundamentals
 
 ## Executive Summary
-This note covers essential Linux shell environments, command-line operations, and Bash scripting fundamentals used for system administration, log analysis, and task automation in Information Assurance[cite: 2].
+This note covers essential Linux shell environments, command-line operations, and Bash scripting fundamentals used for system administration, log analysis, and task automation in Information Assurance
 
 ## Key Concepts
 - **Core Commands:** Navigation (`cd`, `ls`), file permissions (`chmod`, `chown`), and process control (`ps`, `kill`).
