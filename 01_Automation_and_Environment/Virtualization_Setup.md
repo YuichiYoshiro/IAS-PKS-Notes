@@ -1,7 +1,7 @@
 # Virtualization & Isolated Testbeds
 
 ## Executive Summary
-Overview of hypervisors and virtual machine setup to construct isolated testing environments (sandboxes) for running vulnerable applications and testing exploits safely[cite: 1].
+Overview of hypervisors and virtual machine setup to construct isolated testing environments (sandboxes) for running vulnerable applications and testing exploits safely.
 
 ## Key Concepts
 - **Hypervisors:** Type-1 (bare-metal) vs. Type-2 (hosted, e.g., VirtualBox, VMware Workstation).
@@ -12,4 +12,4 @@ Overview of hypervisors and virtual machine setup to construct isolated testing 
 - **State Preservation:** Creating and restoring VM snapshots prior to running malicious commands or testing exploits.
 
 ## Practical Takeaway
-Using Host-Only or isolated virtual networks ensures that web exploitation tests (like DVWA) do not expose vulnerable endpoints to external networks or local Wi-Fi environments[cite: 1].
+Using Host-Only or isolated virtual networks ensures that web exploitation tests (like DVWA) do not expose vulnerable endpoints to external networks or local Wi-Fi environments.
