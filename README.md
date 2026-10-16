@@ -32,6 +32,6 @@ Welcome to my **Personal Knowledge System (PKS)** for CIT312/ITL312: Information
 ---
 
 ## 📝 Core Key Takeaways
-1. **Never Trust User Input:** Unsanitized user inputs lead directly to catastrophic failures like SQL Injection and OS Command Injection[cite: 1, 2].
-2. **Defense in Depth:** Combine application-level security (prepared statements) with infrastructure isolation (virtualized network modes)[cite: 1, 2].
-3. **Cryptography in Practice:** Security relies on key management and asymmetric cryptography for identity verification and confidentiality[cite: 2].
+1. **Never Trust User Input:** Unsanitized user inputs lead directly to catastrophic failures like SQL Injection and OS Command Injection.
+2. **Defense in Depth:** Combine application-level security (prepared statements) with infrastructure isolation (virtualized network modes).
+3. **Cryptography in Practice:** Security relies on key management and asymmetric cryptography for identity verification and confidentiality.
